@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Student+Developer;AI+%26+Web+Builder;Linux+Enthusiast;Open+Source+Explorer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Student+Developer;AI+%26+Apps+Web+Builder;Linux+Enthusiast;Open+Source+Explorer" />
 </p>
 <h1 align="left">Hey 👋 What's up?</h1>
 
